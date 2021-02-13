@@ -1,0 +1,21 @@
+div{
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 2px solid blue;
+    background-color: #c98106;
+
+}
+img{
+    padding-left: 30%;
+} 
+h2{
+    text-align: center;
+    color: #c900ff;
+    font-family: Lucida Console;
+}
+h4{
+    text-align: center;
+    color: #010F27;
+    font-family: Helvetica;
+}
+ 
